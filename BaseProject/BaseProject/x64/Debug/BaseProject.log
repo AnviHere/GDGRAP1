@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(45,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(45,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(45,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(45,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(46,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(46,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(46,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\BaseProject\main.cpp(46,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  BaseProject.vcxproj -> C:\Users\Lenovo\Documents\Year 2 Term 3\GDGRAP1\BaseProject\x64\Debug\BaseProject.exe
